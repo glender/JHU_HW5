@@ -70,7 +70,7 @@ public class MonitorNetwork {
 		// Display Infection results
 		networkGraph.displayResults();
 		
-		System.out.println("------------------------------------------------- \n \n");
+		System.out.println("-------------------------------------------------");
 		
 		// Clear the Nodes for the next test
 		c1.ClearButLeaveComputerName();
